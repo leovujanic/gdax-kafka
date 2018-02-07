@@ -1,0 +1,23 @@
+{
+  "name": "gdax-kafka",
+  "version": "1.0.0",
+  "description": "GDAX - Apache Kafka Producer written in nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "gdax",
+    "apache",
+    "kafka",
+    "producer"
+  ],
+  "author": "leonard.vujanic@gmail.com",
+  "license": "ISC",
+  "directories": {
+    "src": "src"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "gdax": "^0.5.1",
+    "node-rdkafka": "^2.2.1"
+  }
+}
